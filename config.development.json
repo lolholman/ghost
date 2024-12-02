@@ -5,9 +5,12 @@
     "host": "127.0.0.1"
   },
   "database": {
-    "client": "sqlite3",
+    "client": "mysql",
     "connection": {
-      "filename": "/Users/LolHolman/ghost-local/content/data/ghost-local.db"
+      "host": "127.0.0.1",
+      "user": "ghost",
+      "password": "Iwannacook1e!",
+      "database": "ghostdb"
     }
   },
   "mail": {
