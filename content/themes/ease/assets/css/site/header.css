@@ -1,0 +1,13 @@
+.gh-head-logo {
+    letter-spacing: -0.01em;
+}
+
+.gh-head-menu,
+.gh-head-link {
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.gh-head-menu::after {
+    display: none;
+}
